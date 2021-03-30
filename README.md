@@ -26,6 +26,10 @@ to recognize the people he may be know.
 In order for the glasses to recognize the
 voice of a blind person and perform the required task.
 
+Uploading photo.png…
+
+
+
 # Finally
 We Connect project final test and debugging.
 
