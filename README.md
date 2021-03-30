@@ -26,8 +26,7 @@ to recognize the people he may be know.
 In order for the glasses to recognize the
 voice of a blind person and perform the required task.
 
-Uploading photo.png…
-
+![photo](https://user-images.githubusercontent.com/72870528/113068147-00502c00-91be-11eb-999c-a88aca8b7924.png)
 
 
 # Finally
