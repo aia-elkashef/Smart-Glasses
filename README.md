@@ -11,15 +11,19 @@ The main goal of "smart glasses" is to help blind people and people
 with vision difficulties by introducing a new technology that makes
 them able to recognize the environment around them in an easy way.
 
-# ● We used this technology to build our Solution:
-a. Object Detection : by using TensorFlow v2 and Yolo Algorithm
+# ● We used this technology to build our Solution
+# a. Object Detection: 
+by using TensorFlow v2 and Yolo Algorithm
 That detects and defines objects such as humans, buildings and cars
 from digital images.
-b. OCR : The task is to scan any text image and convert it into audio
+# b. OCR: 
+The task is to scan any text image and convert it into audio
 text, so the person will listen to the audio through a headphone that’s
 connected to the glasses.
-c. Face Recognition : to recognize the people he may be know.
-d. Speech Recognition : In order for the glasses to recognize the
+# c. Face Recognition: 
+to recognize the people he may be know.
+# d. Speech Recognition: 
+In order for the glasses to recognize the
 voice of a blind person and perform the required task.
 
 # ● Finally
